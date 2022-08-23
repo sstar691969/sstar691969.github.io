@@ -24,7 +24,8 @@ Case Study
 	Kareems launched website currently receives emails and text messages thru various platforms like telegram, whatsapp, facebook. Kareem has booked clients for future summer cruises line trips months in advance and daily trips using the website's email contacts received through a contact form page. -Results
 
 		Kareem of Elegante Transportation  states: “Launching this website has been huge for me in transportation services.” 
+		
 
-*italic*
+*resume:https://docs.google.com/document/d/1zie6gVlz3oXdyPA101YQQOqgw8A1cf2JQOTC2MJrI7k/edit?usp=sharing*
 
 *github mark down*
