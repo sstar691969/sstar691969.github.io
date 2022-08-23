@@ -33,7 +33,7 @@ Here's our logo (hover to see the title text): "A GitHub Mark Down Exclusive"
 ![alt text](https://github.com/sstar691969/new-final-projectit161/blob/main/images/shuttle.jpg "Elagante Shuttle Service")
 
 ---
-# **About Me
+# **About Me**
 Hello, I am William L. Anderson and I have vast skills in customer service and web development . Im currently a IT student at Seattle Central College and I have created my own projects related to transportation website and database app that will increase revenue and customers flow thru my anticipating website plus app. I am currently attending Seattle Central College and anticipating a Web Development certificate by April 2023. Additionally, my goal is to become a full stack Web developer which means front and back web developer.  Im currently learning Github & git, Xhtml or Web authoring, Vs code, FileZilla, Pg admin, PostgreSQL, Django, Java, CSS, Mac Pro, Google Cloud. I have achieved 4.0 GPA two quarters straight and look forward to entering the IT sector with the opportunity and excitement of joining your team to help advance my skills and increase production to another level, "respectfully."
 
 
