@@ -1,5 +1,5 @@
 #  EXCLUSIVE SHUTTLE SERVICE by William L. Anderson
-##  Project: [Elagante Shuttle Service] file:///Users/williamanderson/Documents/it161/fp/about.html 
+## My Project:Elagante Shuttle Service 
 
 ---
 
@@ -7,9 +7,9 @@
 ## **CASE STUDY**
 **This bold text**
 
-Elegante Transportation
+**Elegante Transportation
 Cliente: Kareem
-Case Study
+Case Study**
 
 
 
@@ -32,6 +32,6 @@ Case Study
 
 [My Contact:](http://web-students.net/site3/it161/fp/index.html))
 
-
+---
 
 *github mark down*
