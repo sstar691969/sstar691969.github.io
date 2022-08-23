@@ -4,12 +4,12 @@
 ---
 
 
-## **CASE STUDY**
+
 **This bold text**
 
-**Elegante Transportation
+# **Elegante Transportation
 Cliente: Kareem
-Case Study**
+
 
 
 
