@@ -6,8 +6,8 @@
 
 ## Horizontal rules
 
-** This bold text**
+**This bold text**
 
-* italic *
+*italic*
 
-* github mark down *
+*github mark down*
