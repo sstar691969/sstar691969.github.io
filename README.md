@@ -32,6 +32,6 @@
 Here's our logo (hover to see the title text):
 
 Inline-style: 
-![alt text]( "Logo Title Text 1")
+![alt text](https://github.com/sstar691969/new-final-projectit161/blob/main/images/shuttle.jpg "Logo Title Text 1")
 
 
