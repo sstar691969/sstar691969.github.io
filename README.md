@@ -26,6 +26,6 @@ Case Study
 		Kareem of Elegante Transportation  states: “Launching this website has been huge for me in transportation services.” 
 		
 
-[resume](https://docs.google.com/document/d/1VVQrVZgp02QY-wLVvDnM3seiJYlaYusgdCQdobzXM5Y/edit?usp=sharing)
+[My Resume:](https://docs.google.com/document/d/1VVQrVZgp02QY-wLVvDnM3seiJYlaYusgdCQdobzXM5Y/edit?usp=sharing)
 
 *github mark down*
