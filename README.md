@@ -4,7 +4,7 @@
 ---
 
 
-**CASE STUDY**
+##**CASE STUDY**
 **This bold text**
 
 *italic*
