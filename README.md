@@ -30,7 +30,7 @@ Case Study
 
 [My Project:](http://web-students.net/site3/it161/fp/index.html)
 
-[My Contact:]([My Project:](http://web-students.net/site3/it161/fp/index.html))
+[My Contact:](http://web-students.net/site3/it161/fp/index.html))
 
 
 
