@@ -4,11 +4,7 @@
 ---
 
 
-
-**This bold text**
-
-# **Elegante Transportation
-Cliente: Kareem
+**Cliente: Kareem
 
 
 
