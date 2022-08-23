@@ -29,9 +29,9 @@
 [My Contact:](http://web-students.net/site3/it161/fp/index.html)
 
 ---
-Here's our logo (hover to see the title text):
+Here's our logo (hover to see the title text): "A GitHub Mark Down Exclusive"
 
-Inline-style: 
-![alt text](https://github.com/sstar691969/new-final-projectit161/blob/main/images/shuttle.jpg "Logo Title Text 1")
+ 
+![alt text](https://github.com/sstar691969/new-final-projectit161/blob/main/images/shuttle.jpg "Elagante Shuttle Service")
 
 
